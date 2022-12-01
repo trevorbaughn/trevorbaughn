@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Trevor Baughn, a game developer currently based in Arizona.  I work as a designer and programmer professionally, but like to do a bit of everything for my hobby projects.  My repos here include a lot as well, though nothing really useful for the general public.  No packages or anything.  That might change one day.
+
 <!--
 **TrevorBaughn/TrevorBaughn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
