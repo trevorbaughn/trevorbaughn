@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey 👋
 
-I'm Trevor Baughn, a game developer currently based in the Greater Seattle Area.  I work as a designer and programmer professionally, but like to do a bit of everything for my hobby projects.  My repos here include a lot as well, though nothing really useful for the general public.  No packages or anything.  That might change one day.
+I'm Trevor Baughn, a game developer currently based in the Greater Seattle Area. I generally try to keep things as open-source as possible. Here you'll find several prototypes and small games. Many of these were done during a period of time where I made a game each week in ~10 hours. Some of them are 48-hour game jams (most of which I collaborated with others for). There are even a couple Discord bots in here.
 
 <!--
 **TrevorBaughn/TrevorBaughn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
