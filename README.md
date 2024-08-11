@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm **Trevor Baughn**, a game developer currently based in the Greater Seattle Area, and an advocate for [Free](https://www.fsf.org/about/what-is-free-software) and [Open Source](https://en.wikipedia.org/wiki/Open-source_software) Software (FOSS).
+I'm **Trevor Baughn**, a game developer currently based in the Greater Phoenix Area of Arizona, and an advocate for [Free](https://www.fsf.org/about/what-is-free-software) and [Open Source](https://en.wikipedia.org/wiki/Open-source_software) Software (FOSS).
 
 Here you can find;
 - :high_brightness: My [Arch Linux + Hyprland dotfiles](https://github.com/trevorbaughn/.dotfiles)
