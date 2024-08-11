@@ -1,18 +1,14 @@
 ### Hey 👋
 
-I'm Trevor Baughn, a game developer currently based in the Greater Seattle Area. I generally try to keep things as open-source as possible. Here you'll find several prototypes and small games. Many of these were done during a period of time where I made a game each week in ~10 hours. Some of them are 48-hour game jams (most of which I collaborated with others for). There are even a couple Discord bots in here.
+I'm **Trevor Baughn**, a game developer currently based in the Greater Seattle Area, and an advocate for [Free](https://www.fsf.org/about/what-is-free-software) and [Open Source](https://en.wikipedia.org/wiki/Open-source_software) Software (FOSS).
 
-<!--
-**TrevorBaughn/TrevorBaughn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you can find;
+- :high_brightness: My [Arch Linux + Hyprland dotfiles](https://github.com/trevorbaughn/.dotfiles)
+- :briefcase: My [portfolio website](https://github.com/trevorbaughn/trevorbaughn.github.io)
+- :gear: A variety of [prototypes](https://github.com/trevorbaughn/MoveShoot)
+- :robot: [Discord bots](https://github.com/trevorbaughn/ReactBot)
+- :notebook_with_decorative_cover: A [small Kristal library](https://github.com/trevorbaughn/CirclingShooters)
+- :blue_book: ...and some old class work
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Need to get ahold of me?
+:envelope: - Email me @ *trevor.baughn at protonmail.com*
