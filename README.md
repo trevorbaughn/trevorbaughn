@@ -11,4 +11,4 @@ Here you can find;
 - :blue_book: ...and some old class work
 
 #### Need to get ahold of me?
-:envelope: - Email me @ *trevor.baughn at protonmail.com*
+:envelope: - Email me @ *trevor.baughn at protonmail dot com*
